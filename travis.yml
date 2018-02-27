@@ -1,0 +1,16 @@
+#travis.yml
+
+sudo: required
+
+language: php
+
+services:
+  - docker
+
+script:
+  # Build docker image
+
+
+
+before_install:
+  -
